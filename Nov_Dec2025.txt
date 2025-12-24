@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ting and Greg Nov-Dec 2025</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 20px; background: #f0f0f0; }
+        h1 { text-align: center; }
+        .gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 10px; }
+        .gallery img { width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); cursor: pointer; }
+        /* Add lightbox for full-screen view (optional) */
+        .lightbox { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.8); justify-content: center; align-items: center; }
+        .lightbox img { max-width: 90%; max-height: 90%; }
+        .lightbox.active { display: flex; }
+    </style>
+</head>
+<body>
+    <h1>Ting and Greg Nov-Dec 2025</h1>
+    <div class="gallery">
+        <!-- Add your image tags here, one per photo -->
+        <img https://www.dropbox.com/scl/fo/bp6ptfkcjkvj28lrnf74o/ALucqCuY734pdlEpSo5v1LQ?rlkey=f484vjxp2xpk5xou95hi5wxyy&st=puzrpumv&dl=0
+?raw=1</html>="https://www.dropbox.com/s/abc123/photo1.jpg?raw=1" alt="Photo 1" onclick="openLightbox(this.https://www.dropbox.com/scl/fo/bp6ptfkcjkvj28lrnf74o/ALucqCuY734pdlEpSo5v1LQ?rlkey=f484vjxp2xpk5xou95hi5wxyy&st=puzrpumv&dl=0
+?raw=1</html>)">
+        <img https://www.dropbox.com/scl/fo/bp6ptfkcjkvj28lrnf74o/ALucqCuY734pdlEpSo5v1LQ?rlkey=f484vjxp2xpk5xou95hi5wxyy&st=puzrpumv&dl=0
+?raw=1</html>="https://www.dropbox.com/s/abc123/photo2.jpg?raw=1" alt="Photo 2" onclick="openLightbox(this.https://www.dropbox.com/scl/fo/bp6ptfkcjkvj28lrnf74o/ALucqCuY734pdlEpSo5v1LQ?rlkey=f484vjxp2xpk5xou95hi5wxyy&st=puzrpumv&dl=0
+?raw=1</html>)">
+        <!-- Repeat for each photo; get URLs from Dropbox -->
+    </div>
+    <div class="lightbox" id="lightbox" onclick="closeLightbox()">
+        <img id="lightbox-img" https://www.dropbox.com/scl/fo/bp6ptfkcjkvj28lrnf74o/ALucqCuY734pdlEpSo5v1LQ?rlkey=f484vjxp2xpk5xou95hi5wxyy&st=puzrpumv&dl=0
+?raw=1</html>="" alt="Full view">
+    </div>
+    <script>
+        function openLightbox(https://www.dropbox.com/scl/fo/bp6ptfkcjkvj28lrnf74o/ALucqCuY734pdlEpSo5v1LQ?rlkey=f484vjxp2xpk5xou95hi5wxyy&st=puzrpumv&dl=0
+?raw=1</html>) {
+            document.getElementById('lightbox-img').https://www.dropbox.com/scl/fo/bp6ptfkcjkvj28lrnf74o/ALucqCuY734pdlEpSo5v1LQ?rlkey=f484vjxp2xpk5xou95hi5wxyy&st=puzrpumv&dl=0
+?raw=1</html> = https://www.dropbox.com/scl/fo/bp6ptfkcjkvj28lrnf74o/ALucqCuY734pdlEpSo5v1LQ?rlkey=f484vjxp2xpk5xou95hi5wxyy&st=puzrpumv&dl=0
+?raw=1</html>;
+            document.getElementById('lightbox').classList.add('active');
+        }
+        function closeLightbox() {
+            document.getElementById('lightbox').classList.remove('active');
+        }
+    </script>
+</body>
+ 
+https://www.dropbox.com/scl/fo/bp6ptfkcjkvj28lrnf74o/ALucqCuY734pdlEpSo5v1LQ?rlkey=f484vjxp2xpk5xou95hi5wxyy&st=puzrpumv&dl=0
+?raw=1</html>
